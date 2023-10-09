@@ -1,9 +1,11 @@
-# This is a Youtube Clone
-I made this website responsive you can also use it in your phone
-## I used 
-### HTML
-### CSS
-### JavaScript
-### React Js
-### Material UI
-### axios
+My-Youtube :- https://shorturl.at/muFNR
+
+This website is hosted using Netlify.
+
+A fully responsive YouTube.
+
+Technoligies used are HTML, CSS, Javascript, Reactjs, Axios, RestAPI.
+
+Contains every Important features of Youtube.
+
+Most Importantly it does not contains any Ads.
